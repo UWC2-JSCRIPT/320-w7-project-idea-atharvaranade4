@@ -1,6 +1,7 @@
 Dall-E Mood-Board
 
-I built a mood-board as a part of the final project for the last semester course. I would like to take the idea a step further and incorporate more features in the app. 
+I built a mood-board as a part of the final project for the last semester course. I would like to take the idea a step further and incorporate more features in the app.
+
 Who will use your project?
 Design and graphic industry use mood-boards to convey design ideas, iterations and thoughts to clients and project teams. A mood board is a compilation of images, texts, color palettes composed onto a canvas to establish a graphical story telling.
 
@@ -8,7 +9,7 @@ Example of mood-board:
 -https://reallygooddesigns.com/mood-board-examples/
 
 Value of project:
-Dall-E is an AI service offered by open.ai that creates text to images. The app will Dall-E API to query images, add them to a user collection and finally load them onto a canvas. Once on the canvas, the user can then drag, resize or rotate images, add canvas background and finally download the canvas image. This will allow users to create mood-board on a web browser with an easy-to-use interface.
+Dall-E is an AI service offered by open.ai that creates text to images. Unsplash is a massive database of high-res images. I would like to to DallE and/or Unspalsh API to query an image to create a mood board canvas. Once the images are on the canvas, the user can drag, resize or rotate images, add canvas background and finally download the canvas image. This will allow users to create mood-board on a web browser with an easy-to-use interface.
 
 Wireframe:
 Check attached image.
@@ -16,8 +17,10 @@ Check attached image.
 List of dependencies:
 •	Npm module: draggable (react)
 •	React-router-dom
+
 API:
 •	Dall-E API
+•	Unsplash API
 
 Tasks:
 •	Setup create-react-app scaffold.
